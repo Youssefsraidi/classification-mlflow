@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Sraidi/Desktop/MLops_projects/MLflow_project/classification-mlflow/mlruns/0/b3fdb0e8b5a64a7498ccf420a054788a/artifacts
+end_time: 1722091211041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3fdb0e8b5a64a7498ccf420a054788a
+run_name: persistent-rook-948
+run_uuid: b3fdb0e8b5a64a7498ccf420a054788a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722091176297
+status: 3
+tags: []
+user_id: Sraidi
